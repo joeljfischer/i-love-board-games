@@ -3,7 +3,7 @@ name: "I Love Board Games"
 title: "I Love Board Games"
 description: "Board Game Thoughts and Reviews"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: '/i-love-board-games'
 # google_analytics: 'UA-46278016-1'
 # disqus: 'demowebsite'
