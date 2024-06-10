@@ -13,17 +13,11 @@ permalink: /
         <h2><span>Featured</span></h2>
     </div>
     <div class="row">
-
     {% for post in site.posts %}
-
         {% if post.featured == true %}
-
             {% include featuredbox.html %}
-
         {% endif %}
-
     {% endfor %}
-
     </div>
 </section>
 
@@ -34,19 +28,13 @@ permalink: /
 <section class="recent-posts">
 
     <div class="section-title">
-
         <h2><span>All Posts</span></h2>
-
     </div>
 
     <div class="row listrecent">
-
         {% for post in paginator.posts %}
-
-        {% include postbox.html %}
-
+            {% include postbox.html %}
         {% endfor %}
-
     </div>
 
 </section>

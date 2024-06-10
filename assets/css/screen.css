@@ -12,12 +12,12 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 a {
-    color: #00ab6b;
+    color: #b71b1b;
     transition: all 0.2s;
 }
 
 a:hover {
-    color: #038252;
+    color: #b71b1bcc;
     text-decoration: none;
 }
 
@@ -180,6 +180,7 @@ section.recent-posts {
     width: 40px;
     height: 40px;
     border-radius: 100%;
+    margin-right: 8px;
 }
 
 .post-top-meta {
@@ -274,7 +275,7 @@ span.post-read-more a:hover {
 .mediumnavigation .form-inline .btn:hover,
 .mediumnavigation .form-inline .btn:active {
     background: transparent;
-    color: green;
+    color: #b71b1b;
 }
 
 .mediumnavigation .navbar-brand {
@@ -338,7 +339,7 @@ span.post-read-more a:hover {
 }
 
 blockquote {
-    border-left: 4px solid #00ab6b;
+    border-left: 4px solid #b71b1b;
     padding: 0 20px;
     font-style: italic;
     color: rgba(0, 0, 0, .5);
@@ -526,8 +527,8 @@ ul.tags li a:hover {
 }
 
 .btn.follow {
-    border-color: #02B875;
-    color: #1C9963;
+    border-color: #b71b1b;
+    color: #b71b1b;
     padding: 3px 10px;
     text-align: center;
     border-radius: 999em;
@@ -536,8 +537,8 @@ ul.tags li a:hover {
 }
 
 .btn.subscribe {
-    background-color: #1C9963;
-    border-color: #1C9963;
+    background-color: #b71b1b;
+    border-color: #b71b1b;
     color: rgba(255, 255, 255, 1);
     fill: rgba(255, 255, 255, 1);
     border-radius: 30px;
@@ -582,8 +583,8 @@ ul.tags li a:hover {
 }
 
 .alertbar input[type="submit"] {
-    background-color: #1C9963;
-    border: 1px solid #1C9963;
+    background-color: #b71b1b;
+    border: 1px solid #b71b1b;
     color: rgba(255, 255, 255, 1);
     fill: rgba(255, 255, 255, 1);
     font-size: 0.85rem;
@@ -766,50 +767,6 @@ iframe {
 .transpdark {
     background: rgba(0, 0, 0, 0.75);
     color: #fff;
-}
-
-@media (min-width:768px) {
-    .jumbotron.fortags {
-        margin-bottom: -50px;
-        margin-top: 3rem;
-        padding: 0;
-        height: 350px;
-        border-radius: 0;
-        background-image: url(../images/jumbotron.jpg);
-        background-size: cover;
-    }
-
-    .jumbotron.fortags .col-md-4 {
-        background: rgba(0, 0, 0, 0.75);
-        color: #fff;
-    }
-
-    .jumbotron.fortags .row {
-        margin: 0;
-    }
-}
-
-.jumbotron.fortags {
-    margin-top: 3rem;
-    padding: 0;
-    border-radius: 0;
-    background-image: url(../images/jumbotron.jpg);
-    background-size: cover;
-}
-
-.jumbotron.fortags a {
-    padding: 5px 10px 7px;
-    background: #222;
-    border-radius: 30px;
-    color: #fff;
-    font-weight: 500;
-    text-transform: lowercase;
-    font-size: 0.8rem;
-    display: inline-block;
-}
-
-.layout-page .jumbotron.fortags {
-    display: none;
 }
 
 .mb-30px {
