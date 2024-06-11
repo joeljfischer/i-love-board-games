@@ -119,6 +119,9 @@ section.recent-posts {
 .maxthumb {
     max-height: 300px;
     overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .listfeaturedtag .card,
