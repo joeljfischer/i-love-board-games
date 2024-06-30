@@ -19,6 +19,7 @@ Explore a lost island in this beautiful, surprisingly thematic worker-placement 
 * Publisher: Czech Games Edition
 * Artists: Ondřej Hrdina, Jiří Kůs, Filip Murmak, Jakub Politzer, František Sedláček, and Milan Vavroň 
 * Release Year: 2020 (Expedition Leaders: 2021)
+* [Affiliate Purchase Link](https://amzn.to/3xGxxcA)
 
 ### Overview
 The Lost Ruins of Arnak is a hybrid worker placement and deck-building game. It’s one of a tandem of such games that came out in 2020, the other being the perhaps slightly more famous [_Dune: Imperium_](https://boardgamegeek.com/boardgame/316554/dune-imperium) (both are solidly in the BoardGameGeek Top 100 ranked games of all-time). I’m not going to compare the two—let me know if you’d like that as a follow-up article in the comments—but they play very differently, and there’s room for both in your collection.
@@ -26,7 +27,7 @@ The Lost Ruins of Arnak is a hybrid worker placement and deck-building game. It�
 ![A closer look at the board - serpent side](/assets/images/lost_ruins_of_arnak/IMG_4031.jpeg)
 
 #### Artwork and Presentation
-The first thing you’ll notice when setting up is the fabulous artwork. The board art and graphic design are clear, the cards and guardians in particular stand out for their artwork, and many of the components are a delight (the cardboard gold and compass tokens stick out as exceptions, and there are many upgrade options on Etsy). The artwork invites you in and does a lot of heavy lifting to make the game feel thematic as you explore new locations on the island, encounter guardians, purchase new items and artifacts, and advance on the temple track. 
+The first thing you’ll notice when setting up is the fabulous artwork. The board art and graphic design are clear, the cards and guardians in particular stand out for their artwork, and many of the components are a delight (the cardboard gold and compass tokens stick out as exceptions, but there are many upgrade options on Etsy). The artwork invites you in and does a lot of heavy lifting to make the game feel thematic as you explore new locations on the island, encounter guardians, purchase new items and artifacts, and advance on the temple track. 
 
 ![Some of the destinations and guardians. There are more in the box than you’ll see in a single game.](/assets/images/lost_ruins_of_arnak/IMG_4032.jpeg)
 
