@@ -19,7 +19,7 @@ authors:
     gravatar: dcc6ade9135e7fab00f51ddf153a1e6e
     email: joeljfischer@gmail.com
     web: https://iloveboard.games
-    # twitter: https://twitter.com/wowthemesnet
+    follow: https://threads.net/iloveboard.games
     description: "Creator of \"I Love Board Games\" and \"Appealing Apps\" iOS Apps"
 
 # Plugins
@@ -30,7 +30,7 @@ plugins:
   - jekyll-seo-tag
     
 # Pagination 
-paginate: 6
+paginate: 12
 paginate_path: /page:num/
     
 # Other
