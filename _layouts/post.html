@@ -145,6 +145,26 @@ post_class: post-template
 <!-- End Article
 ================================================== -->
 
+<!-- Begin Recommended Posts
+================================================== -->
+
+{% if site.related_posts.size >= 1 %}
+<section class="recent-posts">
+    <div class="section-title">
+        <h2><span>You Might Also Enjoy</span></h2>
+    </div>
+
+    <div class="row listrecent">
+        {% for post in site.related_posts limit: 5 %}
+            {% include recommendationbox.html %}
+        {% endfor %}
+    </div>
+</section>
+{% endif %}
+
+<!-- End Recommended Posts
+================================================== -->
+
 <!-- Begin Comments
 ================================================== -->
 {% if page.comments != false %}

@@ -28,7 +28,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-admin
+  - jekyll-tagging-related_posts
     
 # Pagination 
 paginate: 12
