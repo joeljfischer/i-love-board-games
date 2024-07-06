@@ -6,7 +6,7 @@ category: reviews
 tags: [ board-game, solo, competitive, worker-placement, market, deck-building, multi-use-cards, asymmetric-powers, resource-management ]
 description: "Explore a lost island in this beautiful, surprisingly thematic worker-placement / deck-building board game 🗺️"
 image: https://cf.geekdo-images.com/VH4Xdeoj-J6gUbHtXf2YqQ__imagepage/img/xmX9ivWxtTh_M23MqCuW1Dkqyhg=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5787727.jpg
-featured: true
+featured: false
 rating: 5
 ---
 
