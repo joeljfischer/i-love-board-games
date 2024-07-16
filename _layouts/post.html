@@ -149,13 +149,13 @@ post_class: post-template
 ================================================== -->
 
 {% if site.related_posts.size >= 1 %}
-<section class="recent-posts">
+<section class="recommended-posts">
     <div class="section-title">
         <h2><span>You Might Also Enjoy</span></h2>
     </div>
 
     <div class="row listrecent">
-        {% for post in site.related_posts limit: 5 %}
+        {% for post in site.related_posts limit: 4 %}
             {% include recommendationbox.html %}
         {% endfor %}
     </div>

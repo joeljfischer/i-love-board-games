@@ -59,6 +59,11 @@ section {
     margin-bottom: 20px;
 }
 
+section.recommended-posts {
+    margin-top: 40px;
+    margin-bottom: 0;
+}
+
 section.recent-posts {
     margin-bottom: 0;
 }
@@ -124,6 +129,14 @@ section.recent-posts {
     justify-content: center;
 }
 
+.maxthumb-recommendationbox {
+    max-height: 180px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .listfeaturedtag .card,
 .card-footer {
     border: 0;
@@ -171,14 +184,16 @@ h2.recommendation-card-title {
 
 h4.recommendation-card-text {
     color: rgba(0, 0, 0, .44);
-    font-size: 0.75rem;
-    line-height: 1.6;
+    font-size: 0.7rem;
+    line-height: 1.4;
     font-weight: 400;
 }
 
 img.recommendation-img {
     object-fit: cover;
-    max-height: 120px;
+    object-position: center center;
+    height: auto;
+    width: 100%;
 }
 
 .featured-box-img-cover {
