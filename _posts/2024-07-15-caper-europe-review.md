@@ -6,7 +6,7 @@ category: reviews
 tags: [ board-game, competitive, drafting, scenario, set-collection, tug-of-war ]
 description: "Grab a co-pilot, buckle up, and let the dice guide your flight to a (hopefully) smooth landing 🛩️"
 image: https://cf.geekdo-images.com/FGMO69UvxnAT1KWDeMZm_Q__imagepagezoom/img/p0unyNmQtoHE2hfxysv6EV8g0-0=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic6018887.jpg
-featured: true
+featured: false
 rating: 5
 ---
 
